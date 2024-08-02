@@ -1,0 +1,40 @@
+#clock {
+    font-size: 190px;
+    width: 1010px;
+    margin: 270px;
+    text-align: center;
+    border: 10px solid #dfe2e3;
+    background-color: hsl(309, 37%, 7%);
+    border-radius: 0px;
+    color: rgb(240, 243, 240);
+}
+body {
+ h1 
+ 
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: hwb(334 90% 7%);
+    width: px;
+    height: 100px;
+    text-align: center;
+
+}
+}
+body {
+    background-image:url("pngtree-space-with-planets-in-orbit-around-the-sun-picture-image_2737569.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    border: 20px solid #d0ccd0;
+    
+}
+img {
+    border:  2px solid #ddd;
+    border-radius: 5px;
+    padding:  5px;
+}
+h1 {
+    font-size:65PX;
+    text-align: center;
+    vertical-align:text-top;
+}
